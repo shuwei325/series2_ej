@@ -13,16 +13,14 @@ book:
   date-format: "MMMM, YYYY"
   chapters:
     - index.qmd
-    #- data.qmd
+    - data.qmd
     - Lista_1.qmd
     - Lista_2.qmd
     - Lista_3.qmd
     - Lista_4.qmd    
-    #- Lista_5.qmd
-    #- Lista_6.qmd    
+    - Lista_5.qmd
+    - Lista_6.qmd    
     - references.qmd
-  # appendices:
-  #   - appendixA.qmd
   search: true  
   repo-url: https://github.com/shuwei325/series2_ej/
   repo-actions: [edit]
